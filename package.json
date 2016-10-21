@@ -1,0 +1,23 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "SobolRR",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "css-loader": "^0.25.0",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.5",
+    "react-dom": "^15.3.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  }
+}
